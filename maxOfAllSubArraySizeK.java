@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class maxOfAllSubArraySizeK {
     static ArrayList <Integer> max_of_subarrays(int arr[], int n, int k)
     {
